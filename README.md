@@ -8,7 +8,7 @@
 
 ### [Скачать KinoWatch Plus — APK](https://github.com/thejohnd0e/KinoWatch-Plus/releases/latest)
 
-На странице релиза скачайте файл **`KinoWatch Plus-2.15.4-build177.apk`** из раздела **Assets**. Архивы `Source code (zip)` и `Source code (tar.gz)`, которые автоматически показывает GitHub, не являются приложением.
+На странице релиза скачайте файл **`KinoWatch-Plus-2.15.4-build177.apk`** из раздела **Assets**. Архивы `Source code (zip)` и `Source code (tar.gz)`, которые автоматически показывает GitHub, не являются приложением.
 
 | Параметр | Значение |
 | --- | --- |
@@ -214,7 +214,7 @@ Plus использует отдельный пакет **`watch.kino.plus`**, �
 
 ## Проверка файла
 
-SHA-256 файла **`KinoWatch Plus-2.15.4-build177.apk`**:
+SHA-256 файла **`KinoWatch-Plus-2.15.4-build177.apk`**:
 
 ```text
 41CA98AFE9E420B640AE78DBDFC36A33D4EC732E013A4D1E8F5492508C7E31EC
