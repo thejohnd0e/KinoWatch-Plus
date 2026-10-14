@@ -6,9 +6,9 @@
 
 ## Скачать и установить
 
-**Последняя версия: 2.15.4 · сборка 177.**
+**Последняя версия: 2.15.4 · сборка 180.**
 
-### [Скачать приложение](https://github.com/thejohnd0e/KinoWatch-Plus/releases/download/v2.15.4-build177/KinoWatch-Plus-2.15.4-build177.apk)
+### [Скачать приложение](https://github.com/thejohnd0e/KinoWatch-Plus/releases/download/v2.15.4-build180/KinoWatch-Plus-2.15.4-build180.apk)
 
 1. Скачайте файл по ссылке выше и откройте его на устройстве.
 2. Если Android попросит разрешить установку, дайте разрешение браузеру или файловому менеджеру, которым открываете файл.
